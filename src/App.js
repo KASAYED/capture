@@ -1,9 +1,9 @@
-
+import AboutUs from './pages/AbuotUs';
 
 function App() {
   return (
     <div>
-      <h1>Flim</h1>
+  <AboutUs />
     </div>
   );
 }
